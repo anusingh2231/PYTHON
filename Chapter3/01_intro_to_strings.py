@@ -19,7 +19,8 @@ print(name0[1:]) # is same as print(name0[1:5])""
 # Slicing with SKIP value
 word = "Anushka"
 word[0:3:5]
-print(word)
+
+#other A
 
 
 
